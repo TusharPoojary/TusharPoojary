@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TusharPoojary
-- 👀 I’m interested in learning data and finding new insights using various data processing techniques and build efficient models out of the processed data.
+- 👀 I’m interested in learning data and finding new insights to add business value and build efficient models out of the processed data.
 - 📫 How to reach me www.linkedin.com/in/tusharpoojary22
 
 <!---
